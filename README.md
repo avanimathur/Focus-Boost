@@ -20,8 +20,7 @@ The Pomodoro Technique is a time management method, using a timer to break work 
   Visual timer keeps you aware of how much time you’ve spent on a task, promoting mindful work habits.
 - Simple and Distraction-Free:
   Minimalist design with just the essentials — no unnecessary features to distract from your work.
-- Integrated with Your Workflow:
-  Easily accessible from the Chrome toolbar, so you can start and stop sessions without leaving your browser.
+- Easily accessible from the Chrome toolbar, so you can start and stop sessions without leaving your browser.
 
 ## Installation
 
