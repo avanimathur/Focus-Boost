@@ -1,6 +1,5 @@
-# Simple Focus Mode
-
-This is a simple Pomodoro Timer extension for Google Chrome called **Simple Focus Mode**. It helps users improve productivity by breaking their work into focused intervals, separated by short breaks. The extension allows users to start a Pomodoro session, pause it, and customize the duration of the session.
+# Focus Boost
+This is a Pomodoro Timer extension for Google Chrome called **Focus Boost**. It helps users improve productivity by breaking their work into focused intervals, separated by short breaks. The extension allows users to start a Pomodoro session, pause it, and customize the duration of the session.
 
 ## Features
 
@@ -15,11 +14,11 @@ This is a simple Pomodoro Timer extension for Google Chrome called **Simple Focu
 2. Open Google Chrome and navigate to `chrome://extensions`.
 3. Enable "Developer mode" in the top right corner.
 4. Click on the "Load unpacked" button and select the downloaded repository folder.
-5. The Simple Focus Mode extension should now be installed and visible in your extensions list.
+5. The Focus Boost extension should now be installed and visible in your extensions list.
 
 ## Usage
 
-1. Click on the Simple Focus Mode icon in the Chrome toolbar.
+1. Click on the Focus Boost icon in the Chrome toolbar.
 2. Adjust the duration of the Pomodoro session using the slider, if desired.
 3. Click on the "Start Pomodoro" button to start the timer.
 4. The remaining time will be displayed in the popup. You can pause the timer by clicking on the "Pause Pomodoro" button.
