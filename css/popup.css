@@ -1,0 +1,64 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background-color: #0d1b2a;
+  margin: 0;
+  padding: 0;
+  min-width: 300px;
+}
+
+h1 {
+  font-size: 24px;
+  margin: 10px 0;
+  color: beige;
+}
+
+h2, #stop-timer, #Pomodoro, #start-timer, #reset-timer{
+  color: beige;
+}
+
+.slider-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 10px;
+}
+
+input[type="range"] {
+  width: 100%;
+  margin: 0;
+}
+
+.range-value {
+  width: 50px;
+  text-align: center;
+  font-size: 16px;
+}
+
+button {
+    background-color: #1B263B;
+    border: none;
+    color: #E0E1DD;
+  padding: 10px 24px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+button:hover{
+  background-color: #415A77;
+}
+
+#countdown-display {
+  font-size: 28px;
+  font-weight: bold;
+  margin-top: 20px;
+}
+
+.timer-buttons {
+  display: flex;
+  justify-content: space-around;
+}

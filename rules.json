@@ -1,0 +1,87 @@
+[
+    {
+      "id": 1,
+      "priority": 1,
+      "action": {
+        "type": "block"
+      },
+      "condition": {
+        "url_filter": "||facebook.com^",
+        "domains": ["facebook.com"],
+        "resource_types": ["main_frame"]
+      }
+    },
+    {
+      "id": 2,
+      "priority": 1,
+      "action": {
+        "type": "block"
+      },
+      "condition": {
+        "url_filter": "||twitter.com^",
+        "domains": ["twitter.com"],
+        "resource_types": ["main_frame"]
+      }
+    },
+    {
+      "id": 3,
+      "priority": 1,
+      "action": {
+        "type": "block"
+      },
+      "condition": {
+        "url_filter": "||*://*.instagram.com/*",
+        "domains": ["instagram.com"],
+        "resource_types": ["main_frame"]
+      }
+    },
+    {
+      "id": 4,
+      "priority": 1,
+      "action": {
+        "type": "block"
+      },
+      "condition": {
+        "url_filter": "||tiktok.com^",
+        "domains": ["tiktok.com"],
+        "resource_types": ["main_frame"]
+      }
+    },
+    {
+      "id": 5,
+      "priority": 1,
+      "action": {
+        "type": "block"
+      },
+      "condition": {
+        "url_filter": "||reddit.com^",
+        "domains": ["reddit.com"],
+        "resource_types": ["main_frame"]
+      }
+    },
+    {
+      "id": 6,
+      "priority": 1,
+      "action": {
+        "type": "block"
+      },
+      "condition": {
+        "url_filter": "||netflix.com^",
+        "domains": ["netflix.com"],
+        "resource_types": ["main_frame"]
+      }
+    },
+    {
+      "id": 7,
+      "priority": 1,
+      "action": {
+        "type": "block"
+      },
+      "condition": {
+        "url_filter": "||youtube.com^",
+        "domains": ["youtube.com"],
+        "resource_types": ["main_frame"]
+      }
+    }
+  ]
+  
