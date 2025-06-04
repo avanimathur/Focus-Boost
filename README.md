@@ -24,7 +24,8 @@ The Pomodoro Technique is a time management method, using a timer to break work 
 
 ## Installation
 
-1. Download or clone the repository.
+1. Download or clone the repository
+   ` git clone https://github.com/avanimathur/Focus-Boost.git `
 2. Open Google Chrome and navigate to `chrome://extensions`.
 3. Enable "Developer mode" in the top right corner.
 4. Click on the "Load unpacked" button and select the downloaded repository folder.
