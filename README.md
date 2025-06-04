@@ -1,12 +1,27 @@
 # Focus Boost
 This is a Pomodoro Timer extension for Google Chrome called **Focus Boost**. It helps users improve productivity by breaking their work into focused intervals, separated by short breaks. The extension allows users to start a Pomodoro session, pause it, and customize the duration of the session.
+The Pomodoro Technique is a time management method, using a timer to break work into intervals, traditionally 25 minutes in length, separated by short breaks of 5 minutes.
 
 ## Features
 
 - Start, pause, and reset Pomodoro timer
-- Customize the Pomodoro duration in increments of 15 minutes, from 15 minutes to 2 hours
+- Customize the Pomodoro duration in increments of 15 minutes, ranging from 15 minutes to 2 hours
 - Displays the remaining time in the popup
 - Plays a soft ping sound at the end of the Pomodoro session
+
+## Benefits
+- Boosts Productivity:
+  Helps you maintain focus and reduce procrastination by working in structured time blocks.
+- Prevents Burnout:
+  Encourages regular breaks to rest your mind, which can improve long-term performance and reduce fatigue.
+- Flexible Focus Sessions:
+  Customizable session lengths (from 15 minutes to 2 hours) adapt to different tasks and attention spans.
+- Encourages Time Awareness:
+  Visual timer keeps you aware of how much time you’ve spent on a task, promoting mindful work habits.
+- Simple and Distraction-Free:
+  Minimalist design with just the essentials — no unnecessary features to distract from your work.
+- Integrated with Your Workflow:
+  Easily accessible from the Chrome toolbar, so you can start and stop sessions without leaving your browser.
 
 ## Installation
 
